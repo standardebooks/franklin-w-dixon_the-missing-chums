@@ -20,3 +20,8 @@ p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
 }
+
+[epub|type~="z3998:recipient"],
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
