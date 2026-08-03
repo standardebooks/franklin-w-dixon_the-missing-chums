@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums</dc:identifier>
 		<dc:date>2024-04-11T00:18:50Z</dc:date>
@@ -49,11 +49,11 @@
 		<meta id="collection-1" property="belongs-to-collection">The Hardy Boys</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">Two friends go missing on a boat trip, and the Hardy Boys investigate.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Two friends go missing on a boat trip, and the Hardy Boys investigate.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;To their friends’ envy, Biff and Chet plan to take a boating vacation up the coast. The joy of sending them off soon turns to anxiety as neither of them make contact with home for several days. Convinced that something’s happened to them, the &lt;a href="https://standardebooks.org/collections/the-hardy-boys"&gt;Hardy boys&lt;/a&gt; and their friends go on a search filled with adventure and peril in hopes of retrieving their missing chums.&lt;/p&gt;
 			&lt;p&gt;This is the fourth book of the Hardy boys series, first published in 1928. While the author is credited to be &lt;a href="https://standardebooks.org/ebooks/franklin-w-dixon"&gt;Franklin W. Dixon&lt;/a&gt;, in reality, Leslie MacFarlane and Edward Stratemeyer are primarily responsible for the early volumes, including this one. This Standard Ebooks edition is based on the original 1928 text.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72840</dc:source>
 		<dc:source>https://archive.org/details/the-missing-chums</dc:source>
