@@ -49,7 +49,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Hardy Boys</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:abstract>Two friends go missing on a boat trip, and the Hardy Boys investigate.</dc:abstract>
+		<meta property="schema:abstract">Two friends go missing on a boat trip, and the Hardy Boys investigate.</meta>
 		<dc:description>
 			&lt;p&gt;To their friends’ envy, Biff and Chet plan to take a boating vacation up the coast. The joy of sending them off soon turns to anxiety as neither of them make contact with home for several days. Convinced that something’s happened to them, the &lt;a href="https://standardebooks.org/collections/the-hardy-boys"&gt;Hardy boys&lt;/a&gt; and their friends go on a search filled with adventure and peril in hopes of retrieving their missing chums.&lt;/p&gt;
 			&lt;p&gt;This is the fourth book of the Hardy boys series, first published in 1928. While the author is credited to be &lt;a href="https://standardebooks.org/ebooks/franklin-w-dixon"&gt;Franklin W. Dixon&lt;/a&gt;, in reality, Leslie MacFarlane and Edward Stratemeyer are primarily responsible for the early volumes, including this one. This Standard Ebooks edition is based on the original 1928 text.&lt;/p&gt;
